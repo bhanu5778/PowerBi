@@ -11,4 +11,5 @@ Average speed of answer
 Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
 Snapshot of Dashboard:
+
 ![image](https://github.com/user-attachments/assets/d49b2499-3d17-47b6-8fa4-223e5afd6b05)
